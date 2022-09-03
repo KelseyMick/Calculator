@@ -8,7 +8,7 @@ The calculator is able to add, subtract, multiply, and divide two numbers that t
 In addition, the app also has an 'undo' button which undos the last input from the user. This is useful if you accidentally click the wrong number.
 Finally, the program is able to change the first number to a negative or a position number using the button labelled as '-/+'.
 
-<h2>Installion</h2>
+<h2>Installation</h2>
 In order to install and run this program, all you need is for Python to be installed. The program will be able to run perfectly afterwards.
 
 <h2>Conclusion</h2>
